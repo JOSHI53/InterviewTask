@@ -1,0 +1,7 @@
+version: '1'
+services:
+  todo:
+    container_name: internship_task
+    build: .
+    ports:
+      - 4000:4000
