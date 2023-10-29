@@ -1,6 +1,7 @@
 # Interview Task
 
-- https://gleeful-seahorse-f8762f.netlify.app/
+- [Application Live!](https://gleeful-seahorse-f8762f.netlify.app/)
+- [Backend API Link](https://todo-api-56bn.onrender.com)
 ### Todo application with NodeJs, ReactJS in Typescript
 
 ## Backend
